@@ -1,0 +1,5 @@
+node_modules/
+.commandcode/
+coverage/
+*.log
+.DS_Store
